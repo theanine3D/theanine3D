@@ -2,11 +2,11 @@
 
 I'm a 3D technical artist and a Blender addon developer. I code mainly in Python, though I've created some projects with JavaScript/HTML/CSS as well.
 
-🔭 I'm a lifelong advocate for open source software and have contributed code to Mozilla.
-🤝 I currently volunteer for the Hubs Foundation as a moderator and web designer.
-📚 I'm trying to get more experience with lower-level languages like C++.
-🕹️ Fun fact: My favorite videogames of all time include Phantasy Star Online, Legend of Zelda Majora's Mask, and Mother 3.
-🛠️ I love a challenge! If you have an interesting feature request for one of my projects, send it my way.
+- 🔭 I'm a lifelong advocate for open source software and have contributed code to Mozilla.
+- 🤝 I currently volunteer for the Hubs Foundation as a moderator and web designer.
+- 📚 I'm trying to get more experience with lower-level languages like C++.
+- 🕹️ Fun fact: My favorite videogames of all time include Phantasy Star Online, Legend of Zelda Majora's Mask, and Mother 3.
+- 🛠️ I love a challenge! If you have an interesting feature request for one of my projects, send it my way.
 
 <!--
 **theanine3D/theanine3D** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
