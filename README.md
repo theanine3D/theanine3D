@@ -9,6 +9,9 @@ I'm a 3D technical artist and a Blender addon developer. I code mainly in Python
 - 🕹️ Fun fact: My favorite videogames of all time include Phantasy Star Online, Legend of Zelda Majora's Mask, and Mother 3.
 - 🛠️ I love a challenge! If you have an interesting feature request for one of my projects, send it my way.
 
+## 📫 How to reach me: ...
+<a href="https://www.youtube.com/@theanine3D"><img src="https://camo.githubusercontent.com/07b99ba0a719dd3b7423e3d0e08fa8a89c70d82b1821fb77e8bf1b149148788f/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f6e706d2f73696d706c652d69636f6e734076332f69636f6e732f796f75747562652e737667" width="50"></a>
+
 <!--
 **theanine3D/theanine3D** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
