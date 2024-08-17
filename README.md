@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm a 3D technical artist and a Blender addon developer. I code mainly in Python, though I've created some projects with JavaScript/HTML/CSS as well.
+I'm a 3D technical artist and a Blender addon developer. I code mainly in Python, though I've created some projects with JavaScript/HTML/CSS as well. My main interests include 3D, games, VR, virtual worlds, and AI.
 
 - 🔭 I'm a lifelong advocate for open source software and have contributed code to Mozilla.
 - 🤝 I currently volunteer for the Hubs Foundation as a moderator and web designer.
