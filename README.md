@@ -2,7 +2,7 @@
 
 I'm a 3D technical artist and a Blender addon developer. I code mainly in Python, though I've created some projects with JavaScript/HTML/CSS as well. My main interests include 3D, games, VR, virtual worlds, and AI.
 
-- 🔭 I'm a lifelong advocate for open source software and have contributed code to Mozilla.
+- 🔭 I'm a fan of open source software and have contributed code to Mozilla.
 - 🤝 I currently volunteer for the Hubs Foundation as a moderator and web designer.
 - 📚 I'm trying to get more experience with lower-level languages like C++.
 - 🪩 I've been [creating 3D art](https://www.artstation.com/theanine) since 2010 for game engines like Source, Unreal, Unity, and some more obscure ones too.
