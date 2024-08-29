@@ -5,7 +5,7 @@ I'm a 3D technical artist and a Blender addon developer. I code mainly in Python
 - 🔭 I'm a fan of open source software and have contributed code to Mozilla.
 - 🤝 I currently volunteer for the Hubs Foundation as a moderator and web designer.
 - 📚 I'm trying to get more experience with lower-level languages like C++.
-- 🪩 I've been [creating 3D art](https://www.artstation.com/theanine) since 2010 for game engines like Source, Unreal, Unity, and some more obscure ones too.
+- 🪩 I've been creating 3D art since 2010 for game engines like Source, Unreal, Unity, and some more obscure ones too. As such, many of my coding projects are also game- or 3D-related.
 - 🕹️ Fun fact: My favorite videogames of all time include Phantasy Star Online, Legend of Zelda Majora's Mask, and Mother 3.
 - 🛠️ I love a challenge! If you have an interesting feature request for one of my projects, send it my way.
 
