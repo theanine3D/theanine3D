@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm a 3D technical artist and a Blender addon developer. I code mainly in Python, though I've created some projects with JavaScript and Lua as well. My main interests include 3D, games, VR, virtual worlds, and AI. Below are some details about me:
+I'm a 3D technical artist, Blender addon developer, and 3D design instructor. I code mainly in Python, though I've created some projects with JavaScript and Lua as well. My main interests include 3D, games, VR, virtual worlds, and AI. Below are some details about me:
 
 - 🔭 Fan of open source software and have contributed code to Mozilla.
 - 🧑‍🏫 Background in education, and currently teach 3D design for a living. Specifically, the basics of Blender and 3D modeling.
