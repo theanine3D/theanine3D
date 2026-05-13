@@ -6,7 +6,7 @@ I'm a 3D technical artist, Blender addon developer, and 3D design instructor. I 
 - 🧑‍🏫 Background in education, and currently teach 3D design for a living. Specifically, the basics of Blender and 3D modeling.
 - 🪩 3D artist since 2010, using game engines like Source, Unreal, & Unity, so my coding projects are often related to games or 3D.
 - 🕹️ Fun fact: My fave videogames include Chrono Trigger, Phantasy Star Online, Legend of Zelda Majora's Mask, and Mother 3.
-- 🛠️ I love a challenge! If you have an interesting feature request for one of my projects, send it my way.
+- 🛠️ I love a challenge! If you have an interesting suggestion for one of my projects, send it my way.
 
 ## 📫 Connect with me:
 <a href="https://www.youtube.com/@theanine3D">![Untitled2](https://github.com/user-attachments/assets/6206bc88-c764-47f4-a6ac-8c236e1824fb)</a>
